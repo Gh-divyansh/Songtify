@@ -33,3 +33,5 @@ To get started with development, you need to install few tools
     npm --version
    ```
 
+4. after everthing
+   ```npum run dev````
